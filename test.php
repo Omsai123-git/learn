@@ -1,3 +1,3 @@
 <?php 
-echo "Wecome in git - HI";
+echo "Wecome in git ";
 ?>
